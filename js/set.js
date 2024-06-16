@@ -14,7 +14,7 @@ github：https://github.com/imsyy/sou2
 日期：2022-03-10
 ========================================
 由 科技语者 三次修改
-github：https://github.com/imsyy/sou2
+github：https://github.com/kejiyuzhe/sou2
 日期：2024-06-16
 */
 
